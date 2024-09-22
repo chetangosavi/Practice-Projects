@@ -1,0 +1,40 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(223, 223, 223)
+}
+
+span {
+    display: block;
+  }
+.canvas {
+    margin: 100px auto 100px;
+    width: 80%;
+    text-align: center;
+  }
+
+.button{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    display: inline-block;
+    cursor: pointer;
+}
+
+#gray{
+    background: gray;
+}
+
+#white{
+    background: white;
+}
+#blue{
+    background: blue;
+}
+#yellow{
+    background: yellow;
+}
